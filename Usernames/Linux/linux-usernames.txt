@@ -1,0 +1,10 @@
+root
+admin
+ubuntu
+debian
+kali
+user
+sysadmin
+operator
+guest
+support

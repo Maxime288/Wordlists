@@ -1,0 +1,12 @@
+admin
+administrator
+root
+operator
+manager
+supervisor
+netadmin
+networkadmin
+router
+switch
+cisco
+ubnt

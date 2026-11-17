@@ -1,0 +1,14 @@
+root
+admin
+administrator
+mysql
+postgres
+postgresql
+oracle
+mongodb
+redis
+mssql
+sa
+dbadmin
+dbuser
+database

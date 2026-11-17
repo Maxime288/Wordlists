@@ -1,0 +1,11 @@
+test
+testuser
+testadmin
+demo
+demouser
+demoadmin
+qa
+qauser
+qatest
+staging
+development

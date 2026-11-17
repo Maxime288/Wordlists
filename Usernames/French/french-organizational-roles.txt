@@ -1,0 +1,16 @@
+directeur
+directrice
+secretaire
+secrétaire
+comptable
+technicien
+technicienne
+administratif
+administrative
+responsable
+rh
+ressourceshumaines
+informatique
+maintenance
+commercial
+commerciale

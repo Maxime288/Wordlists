@@ -1,0 +1,10 @@
+administrator
+guest
+defaultaccount
+wdagutilityaccount
+krbtgt
+helpdesk
+support
+sysadmin
+domainadmin
+localadmin

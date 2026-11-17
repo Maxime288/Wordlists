@@ -1,0 +1,10 @@
+admin
+administrator
+root
+guest
+user
+support
+service
+operator
+manager
+superuser
